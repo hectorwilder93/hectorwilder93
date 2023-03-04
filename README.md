@@ -1,16 +1,22 @@
-### Hi there 👋
+Héctor Wilder Cuéllar Rodríguez
+Desarrollador full stack de Colombia
+Desarrollador full stack y marketer digital con la capacidad de diseñar, probar, implementar y mejorar el software por medio de los diversos lenguajes y framewares de programación y asi detectar fallas y errores en los sistemas de computación. Complementandolo con las tecnicas de marketing para hacer que los sitios y aplicaciones sean responsive y se puedan posicionar en los distintos buscadores.
 
-<!--
-**hectorwilder93/hectorwilder93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+El bootcamp de undefined en su primer semana!
+🐱‍🚀 Definiendo las herramientas para poder trabajar
+instalando ubuntu en wimdows 10/11
+instalación de git
+configuración de las llaves de ssh
+creando una cuenta de github
+instalción de nodejs y Yarn
+primeros pasos de VScode.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Listado de los comandos en consola
+| Comando | Descripción                      |
+|---------|----------------------------------|
+| rm      |elimina una carpeta dada una ruta|
+|cp      |copia una carpeta dada una ruta inicial y final|
+|mkdir   |crea una nueva carpeta           |
+|df      |muestra el espacio libre en el disco duro|
+|ls      | Lista los archivos de la carpeta actual, o de la ruta dada. |
+|pwd     | Nos nuestra la ruta absoluta del directorio actual, así podemos saberen dónde estamos ubicados.|
