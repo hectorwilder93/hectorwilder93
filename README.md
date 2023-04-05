@@ -2,7 +2,7 @@ Héctor Wilder Cuéllar Rodríguez
 Desarrollador full stack de Colombia
 Desarrollador full stack y marketer digital con la capacidad de diseñar, probar, implementar y mejorar el software por medio de los diversos lenguajes y framewares de programación y asi detectar fallas y errores en los sistemas de computación. Complementandolo con las tecnicas de marketing para hacer que los sitios y aplicaciones sean responsive y se puedan posicionar en los distintos buscadores.
 
-# Alisatndo el entorno para elaborar nuestros proyectos!
+# Alistando el entorno para elaborar nuestros proyectos!
 ## 🐱‍🚀 Definiendo las herramientas para poder trabajar
 1. instalando ubuntu en wimdows 10/11
 2. instalación de git
